@@ -1,0 +1,15 @@
+C:\Users\DELL.000\source\repos\WebApplication1\Emedicine.BAL\obj\Debug\net6.0\Emedicine.BAL.csproj.AssemblyReference.cache
+C:\Users\DELL.000\source\repos\WebApplication1\Emedicine.BAL\obj\Debug\net6.0\Emedicine.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL.000\source\repos\WebApplication1\Emedicine.BAL\obj\Debug\net6.0\Emedicine.BAL.AssemblyInfoInputs.cache
+C:\Users\DELL.000\source\repos\WebApplication1\Emedicine.BAL\obj\Debug\net6.0\Emedicine.BAL.AssemblyInfo.cs
+C:\Users\DELL.000\source\repos\WebApplication1\Emedicine.BAL\obj\Debug\net6.0\Emedicine.BAL.csproj.CoreCompileInputs.cache
+C:\Users\DELL.000\source\repos\WebApplication1\Emedicine.BAL\bin\Debug\net6.0\Emedicine.BAL.deps.json
+C:\Users\DELL.000\source\repos\WebApplication1\Emedicine.BAL\bin\Debug\net6.0\Emedicine.BAL.dll
+C:\Users\DELL.000\source\repos\WebApplication1\Emedicine.BAL\bin\Debug\net6.0\Emedicine.BAL.pdb
+C:\Users\DELL.000\source\repos\WebApplication1\Emedicine.BAL\bin\Debug\net6.0\Emedicine.DAL.dll
+C:\Users\DELL.000\source\repos\WebApplication1\Emedicine.BAL\bin\Debug\net6.0\Emedicine.DAL.pdb
+C:\Users\DELL.000\source\repos\WebApplication1\Emedicine.BAL\obj\Debug\net6.0\Emedicine.BAL.csproj.CopyComplete
+C:\Users\DELL.000\source\repos\WebApplication1\Emedicine.BAL\obj\Debug\net6.0\Emedicine.BAL.dll
+C:\Users\DELL.000\source\repos\WebApplication1\Emedicine.BAL\obj\Debug\net6.0\refint\Emedicine.BAL.dll
+C:\Users\DELL.000\source\repos\WebApplication1\Emedicine.BAL\obj\Debug\net6.0\Emedicine.BAL.pdb
+C:\Users\DELL.000\source\repos\WebApplication1\Emedicine.BAL\obj\Debug\net6.0\ref\Emedicine.BAL.dll
